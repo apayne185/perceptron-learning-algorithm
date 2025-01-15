@@ -14,9 +14,13 @@ This project demonstrates the Perceptron Learning Algorithm (PLA) for binary cla
 * Reports the number of updates required for convergence.
 
 ### To Run 
-* ```bash pip install requirements.txt
+* ```python
+  pip install requirements.txt
+  ```
 
-* ```bash python pla.py
+* ``` python
+  python pla.py
+  ```
 
 
 ## Outputs 
