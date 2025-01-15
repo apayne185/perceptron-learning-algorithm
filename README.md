@@ -14,11 +14,9 @@ This project demonstrates the Perceptron Learning Algorithm (PLA) for binary cla
 * Reports the number of updates required for convergence.
 
 ### To Run 
-* ```bash 
-pip install requirements.txt
+* ```bash pip install requirements.txt
 
-* ```bash
-python pla.py
+* ```bash python pla.py
 
 
 ## Outputs 
@@ -37,10 +35,14 @@ python pla.py
 (Note: Outputs may vary due to random dataset generation.)
 
 ### For 2D Data (size=100)
+![Perceptron Visualization](images/pla-size100.png)
+
 ```python
 Updates before convergence: 54
 ```
 ### For 2D Data (size=1000)
+![Perceptron Visualization](images/pla-size1000.png)
+
 ```python
 Updates before convergence: 169
 ```
