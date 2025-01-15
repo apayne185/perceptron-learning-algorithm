@@ -15,10 +15,10 @@ This project demonstrates the Perceptron Learning Algorithm (PLA) for binary cla
 
 ### To Run 
 * ```bash 
-pip install requirements.txt```
+pip install requirements.txt
 
 * ```bash
-python pla.py```
+python pla.py
 
 
 ## Outputs 
